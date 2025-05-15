@@ -1,4 +1,3 @@
-# ThunderGNN on tensor cores
 
 The project has been transferred to GitLab: https://gitlab.com/cyayac/SC25-pap506s2-AD
 
